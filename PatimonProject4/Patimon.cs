@@ -11,7 +11,6 @@
         /// <summary>
         /// パチモンの技(フィールド)
         /// </summary>
-
         private string skill;
 
         /// <summary>
