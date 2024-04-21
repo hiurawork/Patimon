@@ -51,7 +51,7 @@
         /// <summary>
         /// 鳴き声を取得します。
         /// </summary>
-        /// <returns></returns>
+        /// <returns>鳴き声を返します。</returns>
         public abstract string GetCry();
     }
 }
