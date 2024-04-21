@@ -11,7 +11,6 @@
         /// <summary>
         /// パチモンの技(プロパティ)
         /// </summary>
-
         public string Skill { get; set; }
 
         /// <summary>
